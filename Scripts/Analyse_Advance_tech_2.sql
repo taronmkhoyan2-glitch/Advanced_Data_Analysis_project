@@ -1,0 +1,6 @@
+-----Part to whole analysis
+--Analyze how an individual part is performing compared to the overall,
+--allowing us to understandwhich category has the greatest impact on the business.
+--Fromula ([mesure]/Total[measure])*100 by [Dimension]
+--        (sales/total Sales)*100 by category
+--        (quantity/Total Qunatity)*100 by country 
